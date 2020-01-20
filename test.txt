@@ -1,4 +1,8 @@
 小白一个
 星星源
 哈哈
+<<<<<<< Updated upstream
 bug已解决！
+=======
+此处是bug
+>>>>>>> Stashed changes
